@@ -51,9 +51,9 @@ through major and minor roads) and gives the time (Cumulative)
 
 20. segment_actual_time - This is a segment time. Time taken by the subset of the package delivery
 
-21.segment_osrm_time - This is the OSRM segment time. Time taken by the subset of the package delivery
-22.segment_osrm_distance - This is the OSRM distance. Distance covered by subset of the package delivery
+21. segment_osrm_time - This is the OSRM segment time. Time taken by the subset of the package delivery
+22. segment_osrm_distance - This is the OSRM distance. Distance covered by subset of the package delivery
 
-23.segment_factor - Unknown field
+23. segment_factor - Unknown field
 
 ## Want to talk about the project, Please connect with me on [LinkedIn](https://www.linkedin.com/in/aniket-raikwar/) and aniketrtm114@gmail.com
